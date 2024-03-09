@@ -1,1 +1,16 @@
-[]
+        
+[
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "FFE3C4A8"
+      },
+      {
+        "key": "lightThemeBackgroundColor",
+        "value": "FFF6F5F5"
+      }
+    ]
+  }
+]
