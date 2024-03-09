@@ -12,5 +12,26 @@
         "value": "@android:color/system_neutral1_50"
       }
     ]
+  },
+ {
+    "patchName": "Custom theme",
+    "options": [
+      {
+        "key": "backgroundColor",
+        "value": "@android:color/system_accent2_900"
+      },
+      {
+        "key": "backgroundColorSecondary",
+        "value": "@android:color/system_accent2_600"
+      },
+      {
+        "key": "accentColor",
+        "value": "@android:color/system_accent1_200"
+      },
+      {
+        "key": "accentColorPressed",
+        "value": "@android:color/system_accent1_400 "
+      }
+    ]
   }
 ]
