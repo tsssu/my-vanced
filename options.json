@@ -5,11 +5,11 @@
     "options": [
       {
         "key": "darkThemeBackgroundColor",
-        "value": "#FF14213D"
+        "value": "@android:color/system_neutral1_900"
       },
       {
         "key": "lightThemeBackgroundColor",
-        "value": "#FF14213D"
+        "value": "@android:color/system_neutral1_50"
       }
     ]
   }
