@@ -8,7 +8,7 @@ If you want your own custom setup, consider clicking [this link](https://github.
 1. Youtube Monet & Music (ofc)
 2. Twitter
 3. Tiktok
-4. Spotify
+4. Spotify Monet
 
 ## Why there is no x or y app in your repo?
 Because i don't use it, simple as that.
