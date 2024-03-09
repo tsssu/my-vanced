@@ -5,11 +5,11 @@
     "options": [
       {
         "key": "darkThemeBackgroundColor",
-        "value": "#FFE3C4A8"
+        "value": "#FF14213D"
       },
       {
         "key": "lightThemeBackgroundColor",
-        "value": "#FFF6F5F5"
+        "value": "#FF14213D"
       }
     ]
   }
