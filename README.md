@@ -1,5 +1,18 @@
 
-# My Revanced Setup
+<center>
+  <picture>
+    <source
+      width="256px"
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/header-myvanced/drawable-xxxhdpi/yt_wordmark_header_dark.png"
+    >
+    <img 
+      width="256px"
+      src="assets/header-myvanced/drawable-xxxhdpi/yt_wordmark_header_dark.png"
+    >
+  </picture>
+</center>
+
 This is my revanced configuration that is used to generate the module necessary for me to download and use the revanced stuff.
 
 If you want your own custom setup, consider clicking [this link](https://github.com/j-hc/revanced-magisk-module?tab=readme-ov-file#to-includeexclude-patches-or-patch-other-apps)
