@@ -30,3 +30,4 @@ Because i don't use it, simple as that.
 * [j-hc](https://github.com/j-hc) for his [repository here](https://github.com/j-hc/revanced-magisk-module)
 * [marola font](https://www.dafont.com/marola.font) for the custom header marola
 * [Neko's Emotes](https://stickers.cloud/en/pack/neko-s-emotes) for the mascot and custom header nekos
+* [Nearhaan](https://www.instagram.com/nearhaan.xyz) for the third custom header
