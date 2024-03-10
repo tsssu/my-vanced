@@ -1,15 +1,16 @@
-
+<p align="center">
   <picture>
     <source
-      width="256px"
+      width="512px"
       media="(prefers-color-scheme: dark)"
-      srcset="assets/header-myvanced/drawable-xxxhdpi/yt_wordmark_header_dark.png"
+      srcset="assets/img-headlines/myvanced_light.png"
     >
     <img 
-      width="256px"
-      src="assets/header-myvanced/drawable-xxxhdpi/yt_wordmark_header_dark.png"
+      width="512px"
+      src="assets/img-headlines/myvanced_light.png"
     >
   </picture>
+</p>
 
 This is my revanced configuration that is used to generate the module necessary for me to download and use the revanced stuff.
 
@@ -26,8 +27,6 @@ If you want your own custom setup, consider clicking [this link](https://github.
 Because i don't use it, simple as that.
 
 ## Credits
-This is possible thanks to [j-hc](https://github.com/j-hc) for his [repository here](https://github.com/j-hc/revanced-magisk-module)
-
-<p>Font used: <a href="https://www.dafont.com/marola.font">marola</a></p>
-<p>Mascot: <a href="https://stickers.cloud/en/pack/neko-s-emotes">Neko's Emotes</a></p>
-
+* [j-hc](https://github.com/j-hc) for his [repository here](https://github.com/j-hc/revanced-magisk-module)
+* [marola font](https://www.dafont.com/marola.font) for the custom header marola
+* [Neko's Emotes](https://stickers.cloud/en/pack/neko-s-emotes) for the mascot and custom header nekos
