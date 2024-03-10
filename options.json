@@ -5,7 +5,7 @@
     "options": [
       {
         "key": "header",
-        "value": "assets"
+        "value": "assets/header*marola"
       }
     ]
   },
