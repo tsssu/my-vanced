@@ -6,17 +6,11 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-build-mode = "apk"
+build-mode = "both"
 excluded-patches = ""
 included-patches = "'Change header'"
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Music]
-enabled = false
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
 
 [Twitter]
 build-mode = "apk"
@@ -29,12 +23,18 @@ included-patches = "'SIM spoof'"
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
+[Reddit]
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
 [Twitch]
 enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
-[Reddit]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Music]
+enabled = false
+build-mode = "both"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+arch = "both"
 
 [Messenger]
 enabled = false
