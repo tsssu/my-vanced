@@ -18,7 +18,7 @@ If you want your own custom setup, consider clicking [this link](https://github.
 ## What's in this repo?
 1. Youtube Monet with Custom Header
 2. Spotify Monet
-3. Youtube Music
+3. Reddit
 4. Twitter
 5. Tiktok
 
