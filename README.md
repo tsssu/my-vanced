@@ -27,3 +27,7 @@ Because i don't use it, simple as that.
 
 ## Credits
 This is possible thanks to [j-hc](https://github.com/j-hc) for his [repository here](https://github.com/j-hc/revanced-magisk-module)
+
+<p>Font used: <a href="https://www.dafont.com/marola.font">marola</a></p>
+<p>Mascot: <a href="https://stickers.cloud/en/pack/neko-s-emotes">Neko's Emotes</a></p>
+
