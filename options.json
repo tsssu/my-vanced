@@ -9,7 +9,7 @@
       },
       {
         "key": "lightThemeBackgroundColor",
-        "value": "@android:color/system_neutral1_100"
+        "value": "@android:color/system_accent2_100"
       }
     ]
   },
