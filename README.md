@@ -18,7 +18,7 @@ This is my revanced configuration that is used to generate the module necessary 
 If you want your own custom setup, consider clicking [this link](https://github.com/j-hc/revanced-magisk-module?tab=readme-ov-file#to-includeexclude-patches-or-patch-other-apps)
 
 ## What's in this repo?
-1. Youtube Monet With custom Header
+1. Youtube Monet with Custom Header
 2. Spotify Monet
 3. Youtube Music
 4. Twitter
