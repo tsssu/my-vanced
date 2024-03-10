@@ -3,7 +3,7 @@
     <source
       width="512px"
       media="(prefers-color-scheme: dark)"
-      srcset="assets/img-headlines/myvanced_light.png"
+      srcset="assets/img-headlines/myvanced_dark.png"
     >
     <img 
       width="512px"
