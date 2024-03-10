@@ -1,6 +1,15 @@
         
 [
   {
+    "patchName": "Change header",
+    "options": [
+      {
+        "key": "header",
+        "value": "assets"
+      }
+    ]
+  },
+  {
     "patchName": "Theme",
     "options": [
       {
