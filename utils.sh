@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-MODULE_TEMPLATE_DIR="my-vanced"
+MODULE_TEMPLATE_DIR="my-revanced"
 TEMP_DIR="temp"
 BUILD_DIR="build"
 
