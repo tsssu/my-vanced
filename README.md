@@ -24,6 +24,9 @@ If you want your own custom setup, consider clicking [this link](https://github.
 ## Why there is no x or y app in your repo?
 Because i don't use it, simple as that.
 
+But if you're looking for normal version instead of monet thing, consider clicking [this link](https://github.com/tsssu/my-revanced.git)
+
+
 ## Credits
 * [j-hc](https://github.com/j-hc) for his [repository here](https://github.com/j-hc/revanced-magisk-module)
 * [marola font](https://www.dafont.com/marola.font) for the custom header marola
