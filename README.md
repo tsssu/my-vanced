@@ -11,6 +11,7 @@
     >
   </picture>
 </p>
+<p align="center">Monet (Material You) Edition</p><br />
 
 A custom config revanced builder that supports monet and custom logo for the certain apps, also provide some additional build that i personally use.
 
@@ -19,9 +20,6 @@ If you want your own custom setup, consider clicking [this link](https://github.
 ## What's in this repo?
 * [x] Youtube (Monet and Custom Header Image)
 * [x] Spotify (Monet)
-* [x] Reddit
-* [x] Twitter
-* [x] Tiktok
 
 ## Why there is no x or y app in your repo?
 Because i don't use it, simple as that.
