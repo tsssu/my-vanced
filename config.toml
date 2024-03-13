@@ -12,18 +12,21 @@ included-patches = "'Change header'"
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+
 [Twitter]
+enable = false
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
+enable = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
-[Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
 [Reddit]
+enable = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Twitch]
