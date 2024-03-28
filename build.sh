@@ -169,7 +169,7 @@ if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
 log "\n## Note"
 log "\nInstall [ReVanced MicroG](https://github.com/ReVanced/GmsCore/releases) for YouTube and YT Music APKs"
-log "For Root Installation, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach the app from Play Store"
+log "\nFor Root Installation, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach the app from Play Store"
 log "\n## Changelog"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 
