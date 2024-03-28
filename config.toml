@@ -16,17 +16,17 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Twitter]
-enable = false
+enabled = false
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
-enable = false
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
 [Reddit]
-enable = false
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Twitch]
