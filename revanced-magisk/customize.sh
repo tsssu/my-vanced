@@ -1,6 +1,7 @@
 # shellcheck disable=SC2148,SC2086,SC1091
 . $MODPATH/config
 
+ui_print ""
 if [ -n "$MODULE_ARCH" ] && [ $MODULE_ARCH != $ARCH ]; then
 	abort "ERROR: Wrong arch
 Your device: $ARCH
