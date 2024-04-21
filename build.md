@@ -1,5 +1,5 @@
-Spotify: 8.9.32.624  
 YouTube: 19.11.43  
+Spotify: 8.9.32.624  
 
 ## Note  
 
