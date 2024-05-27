@@ -15,8 +15,6 @@
 
 A custom config revanced builder that supports monet and custom logo for the certain apps, also provide some additional build that i personally use.
 
-If you want your own custom setup, consider clicking [this link](https://github.com/j-hc/revanced-magisk-module?tab=readme-ov-file#to-includeexclude-patches-or-patch-other-apps)
-
 ## What's in this repo?
 * [x] Youtube (Monet and Custom Header Image)
 * [x] Spotify (Monet)
