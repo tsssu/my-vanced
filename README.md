@@ -22,7 +22,7 @@ A custom config revanced builder that supports monet and custom logo for the cer
 ## Why there is no x or y app in your repo?
 Because i don't use it, simple as that.
 
-But if you're looking for normal version instead of monet thing, consider clicking [this link](https://github.com/tsssu/my-revanced.git)
+But if you want your own custom setup, consider clicking [this link](https://github.com/j-hc/revanced-magisk-module?tab=readme-ov-file#to-includeexclude-patches-or-patch-other-apps)
 
 
 ## Credits
