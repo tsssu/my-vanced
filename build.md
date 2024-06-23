@@ -1,5 +1,5 @@
+Spotify: 8.9.50.552  
 YouTube: 19.16.39  
-Spotify: 8.9.44.368  
 
 ## Note  
 
@@ -9,6 +9,6 @@ For Root Installation, use [zygisk-detach](https://github.com/j-hc/zygisk-detach
 
 ## Changelog  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.10.0.apk  
-Patches: ReVanced/revanced-patches-4.9.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.9.0)  
+Integrations: ReVanced/revanced-integrations-1.11.0.apk  
+Patches: ReVanced/revanced-patches-4.10.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.10.0)  
