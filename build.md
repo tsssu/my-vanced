@@ -8,6 +8,6 @@ For Root Installation, use [zygisk-detach](https://github.com/j-hc/zygisk-detach
 
 ## Changelog  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.14.2.apk  
-Patches: ReVanced/revanced-patches-4.15.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.15.0)  
+Integrations: ReVanced/revanced-integrations-1.15.0.apk  
+Patches: ReVanced/revanced-patches-4.16.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.16.0)  
